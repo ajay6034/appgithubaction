@@ -1,1 +1,1 @@
-# The python file named app.py is created
+# The python file named app.py is created with needed gitactions
